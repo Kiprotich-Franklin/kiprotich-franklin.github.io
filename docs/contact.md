@@ -22,10 +22,10 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [kiprotichfranklin4@gmail.com](mailto:kiprotichfranklin4@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/Kiprotich Franklin](https://github.com/Kiprotich Franklin) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/Kiprotich Franklin](https://linkedin.com/in/Kiprotich Franklin) |
+| :material-school: **ResearchGate** | [researchgate.net/profile/Kiprotich Franklin](https://www.researchgate.net/profile/Kiprotich Franklin) |
 
 ---
 
