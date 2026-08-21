@@ -14,17 +14,16 @@ CHECKLIST FOR THIS PAGE:
 
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+Portfolio under development. This page will highlight geospatial projects that I have undertaken.
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Project 1](sample-project.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Placeholder for a brief description of a project that I have undertaken.
 
 `[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
 
@@ -34,10 +33,9 @@ and what you found or built.]
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-notebook.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Project 2](sample-notebook.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Placeholder for a brief description of a project that I have undertaken.
 
 `Python` `pandas` `Folium`
 
