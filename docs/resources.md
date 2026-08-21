@@ -12,6 +12,6 @@ This will capture a collection of all the materials that can be used to learn Ge
 <div class="project-card" markdown>
 <div class="resource-header" markdown>:material-school:</div>
 
-**[Geospatial360]{kiprotich-franklin.github.io}**
+**[Geospatial360]{https://kiprotich-franklin.github.io}**
 
 All Geospatial Learning resources one can need.
