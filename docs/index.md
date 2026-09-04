@@ -32,7 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-Portfolio still under development. Please visit later for an updatedd version. Thanks!
+Portfolio still under development. Please visit later for an updated version. Thanks!
 
 </div>
 
